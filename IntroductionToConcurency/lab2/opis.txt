@@ -1,0 +1,12 @@
+W programie działają trzy wątki.
+    1 w petli wypisuje N razy 1
+    2 w petli wypisuje N razy 2
+    3 w petli wypisuje N razy 3
+
+Niezaleznie od kolejnosci wywołania zawsze ma sie wypisac to w taki sposob:
+"
+123
+123
+...
+123
+"

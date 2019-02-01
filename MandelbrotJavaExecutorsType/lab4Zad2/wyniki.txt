@@ -1,0 +1,94 @@
+##############
+FixedThreadPoolMandelbrot: max_iter: 100 , number_of_tasks: 10, time_spent: 126623082
+SingleThreadExecutorMandelbrot: max_iter: 100 , number_of_tasks: 10, time_spent: 105600100
+CachedThreadPoolMandelbrot: max_iter: 100 , number_of_tasks: 10, time_spent: 73803964
+WorkStealingPoolMandelbrot: max_iter: 100 , number_of_tasks: 10, time_spent: 102934753
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 100 , number_of_tasks: 40, time_spent: 78066858
+SingleThreadExecutorMandelbrot: max_iter: 100 , number_of_tasks: 40, time_spent: 117591710
+CachedThreadPoolMandelbrot: max_iter: 100 , number_of_tasks: 40, time_spent: 88096933
+WorkStealingPoolMandelbrot: max_iter: 100 , number_of_tasks: 40, time_spent: 64048769
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 100 , number_of_tasks: 70, time_spent: 68931652
+SingleThreadExecutorMandelbrot: max_iter: 100 , number_of_tasks: 70, time_spent: 81336714
+CachedThreadPoolMandelbrot: max_iter: 100 , number_of_tasks: 70, time_spent: 44542154
+WorkStealingPoolMandelbrot: max_iter: 100 , number_of_tasks: 70, time_spent: 43149256
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 100 , number_of_tasks: 100, time_spent: 39194468
+SingleThreadExecutorMandelbrot: max_iter: 100 , number_of_tasks: 100, time_spent: 73960282
+CachedThreadPoolMandelbrot: max_iter: 100 , number_of_tasks: 100, time_spent: 51183057
+WorkStealingPoolMandelbrot: max_iter: 100 , number_of_tasks: 100, time_spent: 49880023
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 1000 , number_of_tasks: 10, time_spent: 432445199
+SingleThreadExecutorMandelbrot: max_iter: 1000 , number_of_tasks: 10, time_spent: 435903468
+CachedThreadPoolMandelbrot: max_iter: 1000 , number_of_tasks: 10, time_spent: 174370902
+WorkStealingPoolMandelbrot: max_iter: 1000 , number_of_tasks: 10, time_spent: 174907446
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 1000 , number_of_tasks: 40, time_spent: 139676828
+SingleThreadExecutorMandelbrot: max_iter: 1000 , number_of_tasks: 40, time_spent: 447842216
+CachedThreadPoolMandelbrot: max_iter: 1000 , number_of_tasks: 40, time_spent: 126541524
+WorkStealingPoolMandelbrot: max_iter: 1000 , number_of_tasks: 40, time_spent: 137763245
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 1000 , number_of_tasks: 70, time_spent: 128456616
+SingleThreadExecutorMandelbrot: max_iter: 1000 , number_of_tasks: 70, time_spent: 443874590
+CachedThreadPoolMandelbrot: max_iter: 1000 , number_of_tasks: 70, time_spent: 125965712
+WorkStealingPoolMandelbrot: max_iter: 1000 , number_of_tasks: 70, time_spent: 136701108
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 1000 , number_of_tasks: 100, time_spent: 132385353
+SingleThreadExecutorMandelbrot: max_iter: 1000 , number_of_tasks: 100, time_spent: 445809695
+CachedThreadPoolMandelbrot: max_iter: 1000 , number_of_tasks: 100, time_spent: 128360334
+WorkStealingPoolMandelbrot: max_iter: 1000 , number_of_tasks: 100, time_spent: 132950214
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 10000 , number_of_tasks: 10, time_spent: 4321344115
+SingleThreadExecutorMandelbrot: max_iter: 10000 , number_of_tasks: 10, time_spent: 4317906235
+CachedThreadPoolMandelbrot: max_iter: 10000 , number_of_tasks: 10, time_spent: 1521456256
+WorkStealingPoolMandelbrot: max_iter: 10000 , number_of_tasks: 10, time_spent: 1464850374
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 10000 , number_of_tasks: 40, time_spent: 1217129361
+SingleThreadExecutorMandelbrot: max_iter: 10000 , number_of_tasks: 40, time_spent: 4299582584
+CachedThreadPoolMandelbrot: max_iter: 10000 , number_of_tasks: 40, time_spent: 1150741475
+WorkStealingPoolMandelbrot: max_iter: 10000 , number_of_tasks: 40, time_spent: 1241500736
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 10000 , number_of_tasks: 70, time_spent: 1148607763
+SingleThreadExecutorMandelbrot: max_iter: 10000 , number_of_tasks: 70, time_spent: 4292742318
+CachedThreadPoolMandelbrot: max_iter: 10000 , number_of_tasks: 70, time_spent: 1136881970
+WorkStealingPoolMandelbrot: max_iter: 10000 , number_of_tasks: 70, time_spent: 1173223431
+##############
+
+
+##############
+FixedThreadPoolMandelbrot: max_iter: 10000 , number_of_tasks: 100, time_spent: 1104453007
+SingleThreadExecutorMandelbrot: max_iter: 10000 , number_of_tasks: 100, time_spent: 4256344218
+CachedThreadPoolMandelbrot: max_iter: 10000 , number_of_tasks: 100, time_spent: 1102718398
+WorkStealingPoolMandelbrot: max_iter: 10000 , number_of_tasks: 100, time_spent: 1085865804
+##############
